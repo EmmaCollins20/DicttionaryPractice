@@ -1,0 +1,690 @@
+The Project Gutenberg eBook of Chemical warfare
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Chemical warfare
+
+
+Author: Amos A. Fries
+        Clarence J. West
+
+Release date: October 22, 2023 [eBook #71931]
+
+Language: English
+
+Original publication: New York: McGraw Hill, 1921
+
+Credits: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK CHEMICAL WARFARE ***
+
+
+
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Equal signs “=” before and after a word or phrase indicate =bold=
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Illustrations have been moved so they do not break up paragraphs.
+  Typographical and punctuation errors have been silently corrected.
+
+
+
+
+CHEMICAL WARFARE
+
+
+                      _McGraw-Hill Book Co. Inc._
+
+                        PUBLISHERS OF BOOKS FOR
+
+                  Coal Age ▼ Electric Railway Journal
+              Electrical World ▼ Engineering News-Record
+             American Machinist ▼ Ingeniería Internacional
+                 Engineering & Mining Journal ▼ Power
+                 Chemical & Metallurgical Engineering
+                       Electrical Merchandising
+
+[Illustration]
+
+                           CHEMICAL WARFARE
+
+                                  BY
+                             AMOS A. FRIES
+                _Brigadier General, C. W. S., U. S. A.
+                   Chief, Chemical Warfare Service_
+                                  AND
+                           CLARENCE J. WEST
+               _Major, C. W. S. Reserve Corps, U. S. A.
+                      National Research Council_
+
+                             FIRST EDITION
+
+                    McGRAW-HILL BOOK COMPANY, Inc.
+                     NEW YORK: 370 SEVENTH AVENUE
+                  LONDON: 6 & 8 BOUVERIE ST., E. C. 4
+                                 1921
+
+                        COPYRIGHT, 1921, BY THE
+                    MCGRAW-HILL BOOK COMPANY, INC.
+
+
+
+
+PREFACE
+
+
+Shortly after the signing of the Armistice, it was realized that the
+story of Chemical Warfare should be written, partly because of its
+historical value, and partly because of the future needs of a textbook
+covering the fundamental facts of the Service for the Army, the Reserve
+Officer, the National Guard, and even the Civilian Chemist. The present
+work was undertaken by both authors as a labor of patriotism and
+because of their interest in the Service.
+
+The two years which have elapsed since the initial discussion of the
+outlines of the book have thoroughly convinced us of the need of such
+a work. The Engineers, the Medical Department, and most of the other
+branches of the Army have their recognized textbooks and manuals.
+There has been no way, however, by which the uninformed can check the
+accuracy of statements regarding Chemical Warfare. The present volume
+will serve, in a measure, to fill this gap. That it does not do so
+more completely is due in part to the fact that secrecy must still be
+maintained about some of the facts and some of the new discoveries
+which are the property of the Service. Those familiar with the work of
+the Chemical Warfare Service will discover, though, that the following
+pages contain many statements which were zealously guarded secrets two
+years ago. This enlarged program of publicity on the part of the Chief
+of the Service is being justified every day by the ever increasing
+interest in this branch of warfare. Where five men were discussing
+Chemical Warfare two years ago, fifty men are talking about the work
+and the possibilities of the Service today. It is hoped that the facts
+here presented may further increase the interest in Chemical Warfare,
+for there is no question but that it must be recognized as a permanent
+and a very vital branch of the Army of every country. Reasons for this
+will be found scattered through the pages of this book.
+
+It should be explained that this is in no sense a complete historical
+sketch of the development and personnel of the Chemical Warfare
+Service. At least two more volumes are needed,—one on the Manufacture
+of Poisonous Gases and one on the Tactics of Chemical Warfare. We have
+purposely refrained from an attempt to give credit to individuals for
+the accomplishments of the various Divisions of the Service, because
+such an attempt would have made the book too voluminous, and would
+have defeated the primary purpose, namely, that it should present
+the information in as concise manner as possible. The published and
+unpublished materials of the files of all the Divisions have been
+freely drawn upon in writing the various chapters, and many old C. W.
+S. men will undoubtedly recognize whole sentences which they wrote
+under the stress of the laboratory or plant “battle front.” May
+these few lines be an acknowledgment of their contributions. Those
+who desire to consult the literature of Chemical Warfare will find a
+fairly complete bibliography (to about the middle of 1919) in “Special
+Libraries” for November, 1919.
+
+Special acknowledgment is made to Dr. G. J. Esselen, Jr., for having
+read the manuscript and for helpful and constructive criticisms.
+Many of the figures are reproduced by permission of the Journal of
+Industrial and Engineering Chemistry; those showing the Nelson cell
+were furnished by the Samuel M. Green Company.
+
+                                            AMOS A. FRIES,
+                                            CLARENCE J. WEST.
+
+    Aug. 1, 1921.
+
+
+
+
+FOREWORD
+
+
+After all peaceful means of settling disputes between nations have
+been resorted to and have failed, war is often declared by one of the
+disputants for the purpose of imposing its will upon the other by
+force. In order to accomplish this, a superiority must be established
+over the adversary in trained men and in implements of war.
+
+Men are nothing in modern war unless they are equipped with the most
+effective devices for killing and maiming the enemy’s soldiers and
+thoroughly trained in the use of such implements.
+
+History proves that an effective implement of war has never been
+discarded until it becomes obsolete.
+
+It is impossible to humanize the act of killing and maiming the enemy’s
+soldiers, and there is no logical grounds on which to condemn an
+appliance so long as its application can be so confined. Experiments in
+this and other countries during the World War completely established
+the fact that gas can be so confined. The range of gas clouds is no
+greater than that of artillery and the population in the area behind
+the front line must, if they remain in such range, take their chance.
+The danger area in the future will be known to all.
+
+As the first Director of the Chemical Warfare Service, U. S. Army, I
+speak with some experience when I say that there is no field in which
+the future possibilities are greater than in chemical warfare, and no
+field in which neglect to keep abreast of the times in research and
+training would be more disastrous.
+
+Notwithstanding the fact that gas was used in the World War two years
+before the United States entered the fray, practically nothing was
+done in this country before April, 1917, towards the development of
+any chemical warfare appliances, offensive or defensive, and had it
+not been for the ability of an ally to supply our troops with such
+appliances, they would have been as defenseless as the Canadians were
+at Ypres when the Germans sent over their first gas cloud.
+
+This book recites the troubles and successes of this new service under
+the stress of war for which it was unprepared and I trust that its
+perusal will create a public opinion that will insist upon chemical
+preparation for war.
+
+I feel that this book will show that the genius and patriotism
+displayed by the chemists and chemical engineers of the country were
+not surpassed in any other branch of war work and that to fail to
+utilize in peace times this talent would be a crime.
+
+    WILLIAM L. SIBERT,
+          Major General, United States Army,
+             Retired.
+
+
+
+
+CONTENTS
+
+
+                                                                   PAGE
+    PREFACE                                                         vii
+    FOREWORD                                                         ix
+    CHAPTER
+            I. THE HISTORY OF POISON GASES                            1
+           II. MODERN DEVELOPMENT OF GAS WARFARE                     10
+          III. DEVELOPMENT OF THE CHEMICAL WARFARE SERVICE           31
+           IV. THE CHEMICAL WARFARE SERVICE IN FRANCE                72
+            V. CHLORINE                                             116
+           VI. PHOSGENE                                             126
+          VII. LACHRYMATORS                                         137
+         VIII. CHLOROPICRIN                                         144
+           IX. DICHLOROETHYLSULFIDE (MUSTARD GAS)                   150
+            X. ARSENIC DERIVATIVES                                  180
+           XI. CARBON MONOXIDE                                      190
+          XII. DEVELOPMENT OF THE GAS MASK                          195
+         XIII. ABSORBENTS                                           237
+          XIV. TESTING ABSORBENTS AND GAS MASKS                     259
+           XV. OTHER DEFENSIVE MEASURES                             272
+          XVI. SCREENING SMOKES                                     285
+         XVII. TOXIC SMOKES                                         313
+        XVIII. SMOKE FILTERS                                        322
+          XIX. SIGNAL SMOKES                                        330
+           XX. INCENDIARY MATERIALS                                 336
+          XXI. THE PHARMACOLOGY OF WAR GASES                        353
+         XXII. CHEMICAL WARFARE IN RELATION TO STRATEGY AND TACTICS 363
+        XXIII. THE OFFENSIVE USE OF GAS                             385
+         XXIV. DEFENSE AGAINST GAS                                  405
+          XXV. PEACE TIME USES OF GAS                               427
+         XXVI. THE FUTURE OF CHEMICAL WARFARE                       435
+               INDEX                                                440
+
+
+
+
+CHEMICAL WARFARE
+
+
+
+
+CHAPTER I
+
+THE HISTORY OF POISON GASES[1]
+
+
+The introduction of poison gases by the Germans at Ypres in April,
+1915, marked a new era in modern warfare. The popular opinion is that
+this form of warfare was original with the Germans. Such, however, is
+not the case. Quoting from an article in the _Candid Quarterly Review_,
+=4=, 561, “All they can claim is the inhuman adoption of devices
+invented in England, and by England rejected as too horrible to be
+entertained even for use against an enemy.” But the use of poison gases
+is even of an earlier origin than this article claims.
+
+[Footnote 1: This chapter originally appeared in Science, Vol. =49=,
+pp. 412-417 (1919).]
+
+The first recorded effort to overcome an enemy by the generation of
+poisonous and suffocating gases seems to have been in the wars of the
+Athenians and Spartans (431-404 B.C.) when, besieging the cities of
+Platea and Belium, the Spartans saturated wood with pitch and sulfur
+and burned it under the walls of these cities in the hope of choking
+the defenders and rendering the assault less difficult. Similar uses
+of poisonous gases are recorded during the Middle Ages. In effect
+they were like our modern stink balls, but were projected by squirts
+or in bottles after the manner of a hand grenade. The legend is told
+of Prester John (about the eleventh century), that he stuffed copper
+figures with explosives and combustible materials which, emitted from
+the mouths and nostrils of the effigies, played great havoc.
+
+The idea referred to by the writer in the _Candid Quarterly Review_,
+is from the pen of the English Lord Dundonald, which appeared in the
+publication entitled “The Panmure Papers.” This is an extremely dull
+record of an extremely dull person, only rendered interesting by the
+one portion, concerned with the use of poison gases, which, it is said,
+“should never have been published at all.”
+
+That portion of the article from the _Candid Quarterly Review_ dealing
+with the introduction of poisonous gas by the Germans, and referred to
+in the first paragraph above, is quoted in full as follows:
+
+    “The great Admiral Lord Dundonald—perhaps the ablest
+    sea captain ever known, not even excluding Lord
+    Nelson—was also a man of wide observation, and no
+    mean chemist. He had been struck in 1811 by the deadly
+    character of the fumes of sulphur in Sicily; and, when
+    the Crimean War was being waged, he communicated to
+    the English government, then presided over by Lord
+    Palmerston, a plan for the reduction of Sebastopol
+    by sulphur fumes. The plan was imparted to Lord
+    Panmure and Lord Palmerston, and the way in which it
+    was received is so illustrative of the trickery and
+    treachery of the politician that it is worth while to
+    quote Lord Palmerston’s private communication upon it
+    to Lord Panmure:
+
+          “LORD PALMERSTON TO LORD PANMURE
+
+               “‘HOUSE OF COMMONS, 7th August, 1855
+    “‘I agree with you that if Dundonald will go out
+    himself to superintend and direct the execution of
+    his scheme, we ought to accept his offer and try his
+    plan. If it succeeds, it will, as you say, save a great
+    number of English and French lives; if it fails _in
+    his hands_, we shall be exempt from blame, and if
+    we come in for a small share of the ridicule, we can
+    bear it, and the greater part will fall on him. You
+    had best, therefore, make arrangement with him without
+    delay, and with as much secrecy as the nature of things
+    will admit of.’
+
+    “Inasmuch as Lord Dundonald’s plans have already been
+    deliberately published by the two persons above named,
+    there can be no harm in now republishing them. They
+    will be found in the first volume of ‘The Panmure
+    Papers’ (pp. 340-342) and are as follows:
+
+                  “‘(ENCLOSURE)
+
+           “‘BRIEF PRELIMINARY OBSERVATIONS
+
+    “‘It was observed when viewing the Sulphur Kilns, in
+    July, 1811, that the fumes which escaped in the rude
+    process of extracting the material, though first
+    elevated by heat, soon fell to the ground, destroying
+    all vegetation, and endangering animal life to a great
+    distance, and it was asserted that an ordinance existed
+    prohibiting persons from sleeping within the distance
+    of three miles during the melting season.
+
+    “‘An application of these facts was immediately made
+    to Military and Naval purposes, and after mature
+    consideration, a Memorial was presented on the subject
+    to His Royal Highness the Prince Regent on the 12th
+    of April, 1812, who was graciously pleased to lay it
+    before a Commission, consisting of Lord Keith, Lord
+    Exmouth and General and Colonel Congreve (afterwards
+    Sir William), by whom a favorable report having been
+    given, His Royal Highness was pleased to order that
+    secrecy should be maintained by all parties.
+                                  “‘(Signed) DUNDONALD
+
+       “‘7th August, 1855’
+
+                   “‘MEMORANDUM
+
+    “‘Materials required for the expulsion of the Russians
+    from Sebastopol: Experimental trials have shown that
+    about five parts of coke effectually vaporize one part
+    of sulphur. Mixtures for land service, where weight
+    is of importance, may, however, probably be suggested
+    by Professor Faraday, as to operations on shore I
+    have paid little attention. Four or five hundred tons
+    of sulphur and two thousand tons of coke would be
+    sufficient.
+
+    “‘Besides these materials, it would be necessary to
+    have, say, as much bituminous coal, and a couple of
+    thousand barrels of gas or other tar, for the purpose
+    of masking fortifications to be attacked, or others
+    that flank the assailing positions.
+
+    “‘A quantity of dry firewood, chips, shavings, straw,
+    hay or other such combustible materials, would also
+    be requisite quickly to kindle the fires, which ought
+    to be kept in readiness for the first favourable and
+    steady breeze.
+                                      “‘DUNDONALD
+
+        “‘7th August, 1855’
+
+    “‘=_Note._=—The objects to be accomplished
+    being specially stated the responsibility of their
+    accomplishment ought to rest on those who direct their
+    execution.
+
+    “‘Suppose that the Malakoff and Redan are the objects
+    to be assailed it might be judicious merely to obscure
+    the Redan (by the smoke of coal and tar kindled in ‘The
+    Quarries’), so that it could not annoy the Mamelon,
+    where the sulphur fire would be placed to expel
+    the garrison from the Malakoff, which ought to have
+    all the cannon that can be turned towards its ramparts
+    employed in overthrowing its undefended ramparts.
+
+    “‘There is no doubt but that the fumes will envelop all
+    the defenses from the Malakoff to the Barracks, and
+    even to the line of battleship, the Twelve Apostles, at
+    anchor in the harbour.
+
+    “‘The two outer batteries, on each side of the Port,
+    ought to be smoked, sulphured, and blown down by
+    explosion vessels, and their destruction completed by a
+    few ships of war anchored under cover of the smoke.’
+
+    “That was Lord Dundonald’s plan in 1855, improperly
+    published in 1908, and by the Germans, who thus learnt
+    it, ruthlessly put into practise in 1915.
+
+    “Lord Dundonald’s memoranda, together with further
+    elucidatory notes, were submitted by the English
+    government of that day to a committee and subsequently
+    to another committee in which Lord Playfair took
+    leading part. These committees, with Lord Dundonald’s
+    plans fully and in detail before them, both reported
+    that the plans were perfectly feasible; that the
+    effects expected from them would undoubtedly be
+    produced; but that those effects were so horrible that
+    no honorable combatant could use the means required to
+    produce them. The committee therefore recommended that
+    the scheme should not be adopted; that Lord Dundonald’s
+    account of it should be destroyed. How the records
+    were obtained and preserved by those who so improperly
+    published them in 1908 we do not know. Presumably they
+    were found among Lord Panmure’s papers. Admiral Lord
+    Dundonald himself was certainly no party to their
+    publication.”
+
+One of the early, if not the earliest suggestion as to the use of
+poison gas in shell is found in an article on “Greek Fire,” by B. W.
+Richardson.[2]
+
+[Footnote 2: _Popular Science Review_, =3=, 176 (1864).]
+
+He says:
+
+    “I feel it a duty to state openly and boldly, that if
+    science were to be allowed her full swing, if society
+    would really allow that ‘all is fair in war,’ war
+    might be banished at once from the earth as a game
+    which neither subject nor king dare play at. Globes
+    that could distribute liquid fire could distribute
+    also lethal agents, within the breath of which no man,
+    however puissant, could stand and live. From the summit
+    of Primrose Hill, a few hundred engineers, properly
+    prepared, could render Regent’s Park, in an incredibly
+    short space of time, utterly uninhabitable; or could
+    make an army of men, that should even fill that space,
+    fall with their arms in their hands, prostrate and
+    helpless as the host of Sennacherib.
+
+    “The question is, shall these things be? I do not
+    see that humanity should revolt, for would it not be
+    better to destroy a host in Regent’s Park by making
+    the men fall as in a mystical sleep, than to let
+    down on them another host to break their bones, tear
+    their limbs asunder and gouge out their entrails with
+    three-cornered pikes; leaving a vast majority undead,
+    and writhing for hours in torments of the damned?
+    I conceive, for one, that science would be blessed
+    in spreading her wings on the blast, and breathing
+    into the face of a desperate horde of men prolonged
+    sleep—for it need not necessarily be a death—which
+    they could not grapple with, and which would yield them
+    up with their implements of murder to an enemy that in
+    the immensity of its power could afford to be merciful
+    as Heaven.
+
+    “The question is, shall these things be? I think they
+    must be. By what compact can they be stopped? It were
+    improbable that any congress of nations could agree on
+    any code regulating means of destruction; but if it
+    did, it were useless; for science becomes more powerful
+    as she concentrates her forces in the hands of units,
+    so that a nation could only act, by the absolute and
+    individual assent of each of her representatives.
+    Assume, then, that France shall lay war to England, and
+    by superior force of men should place immense hosts,
+    well armed, on English soil. Is it probable that the
+    units would rest in peace and allow sheer brute force
+    to win its way to empire? Or put English troops on
+    French soil, and reverse the question?
+
+    “To conclude. War has, at this moment, reached, in its
+    details, such an extravagance of horror and cruelty,
+    that it can not be made worse by any art, and can only
+    be made more merciful by being rendered more terribly
+    energetic. Who that had to die from a blow would not
+    rather place his head under Nasmyth’s hammer, than
+    submit it to a drummer-boy armed with a ferrule?”
+
+The _Army and Navy Register_ of May 29, 1915, reports that
+
+    “among the recommendations forwarded to the Board of
+    Ordnance and Fortifications there may be found many
+    suggestions in favor of the asphyxiation process,
+    mostly by the employment of gases contained in bombs
+    to be thrown within the lines of the foe, with varying
+    effects from peaceful slumber to instant death. One
+    ingenious person suggested a bomb laden to its full
+    capacity with snuff, which should be so evenly and
+    thoroughly distributed that the enemy would be
+    convulsed with sneezing, and in this period of paroxysm
+    it would be possible to creep up on him and capture him
+    in the throes of the convulsion.”
+
+That the probable use of poisonous gas has often been in the minds
+of military men during recent times is evidenced by the fact that at
+the Hague Conference in 1899 several of the more prominent nations of
+Europe and Asia pledged themselves not to use projectiles whose only
+object was to give out suffocating or poisonous gases. Many of the
+Powers did not sign this declaration until later. Germany signed and
+ratified it on Sept. 4, 1900, but the United States never signed it.
+Further, this declaration was not to be binding in case of a war in
+which a non-signatory was or became a belligerent. Admiral Mahan, a
+United States delegate, stated his position in regard to the use of gas
+in shell (at that time an untried theory) as follows:
+
+    “The reproach of cruelty and perfidy addressed against
+    these supposed shells was equally uttered previously
+    against fire-arms and torpedoes, although both are
+    now employed without scruple. It is illogical and not
+    demonstrably humane to be tender about asphyxiating
+    men with gas, when all are prepared to admit that it
+    is allowable to blow the bottom out of an ironclad
+    at midnight, throwing four or five hundred men into
+    the sea to be choked by the water, with scarcely the
+    remotest chance to escape.”
+
+At the Hague Congress of 1907, article 23 of the rules adopted for war
+on land states:
+
+    “It is expressly forbidden (_a_),
+     to employ poisons or poisonous weapons.”
+
+Before the War suffocating cartridges were shot from the
+cartridge-throwing rifle of 26 mm. These cartridges were charged with
+ethyl bromoacetate, a slightly suffocating and non-toxic lachrymator.
+They were intended for attack on the flanking works of permanent
+fortifications, flanking casements or caponiers, into which the enemy
+tried to make the cartridges penetrate through the narrow slits used
+for loopholes. The men who were serving the machine guns or the cannon
+of the flanking works would have been bothered by the vapor from the
+ethyl bromoacetate, and the assailant would have profited by their
+disturbance to get past the obstacle presented by the fortification.
+The employment of these devices, not entailing death, did not
+contravene the Hague conventions.
+
+The only memorable operations in the course of which these devices were
+used before the War was the attack on the Bonnet gang at Choisy-le-roi.
+
+In connection with the suggested use of sulfur dioxide by Lord
+Dundonald and the proposed use of poisonous gases in shell, the
+following description of a charcoal respirator by Dr. J. Stenhouse,[3]
+communicated by Dr. George Wilson in 1854, is of interest.
+
+[Footnote 3: _Trans. Royal Scottish Soc. Arts_, =4=, Appendix O, 198
+(1854).]
+
+    “Dr. Wilson commenced by stating that, having read with
+    much interest the account of Dr. Stenhouse’s researches
+    on the deodorizing and disinfecting properties
+    of charcoal, and the application of these to the
+    construction of a new and important kind of respirator,
+    he had requested the accomplished chemist to send one
+    of his instruments for exhibition to the society,
+    which he had kindly done. Two of the instruments were
+    now on the table, differing, however, so slightly in
+    construction, that it would be sufficient to explain
+    the arrangement of one of them. Externally, it had
+    the appearance of a small fencing-mask of wire gauze,
+    covering the face from the chin upwards to the bridge
+    of the nose, but leaving the eyes and forehead free.
+    It consisted, essentially, of two plates of wire
+    gauze, separated from each other by a space of about
+    one-fourth or one-eighth of an inch, so as to form a
+    small cage filled with small fragments of charcoal. The
+    frame of the cage was of copper, but the edges were
+    made of soft lead, and were lined with velvet, so as to
+    admit of their being made to fit the cheeks tightly and
+    inclose the mouth and nostrils. By this arrangement, no
+    air could enter the lungs without passing through the
+    wire gauze and traversing the charcoal. An aperture is
+    provided with a screw or sliding valve for the removal
+    and replenishment of the contents of the cage, which
+    consist of the siftings or riddlings of the lighter
+    kinds of wood charcoal. The apparatus is attached to
+    the face by an elastic band passing over the crown of
+    the head and strings tying behind, as in the case of
+    the ordinary respirator. The important agent in this
+    instrument is the charcoal, which has so remarkable
+    a power of absorbing and destroying irritating and
+    otherwise irrespirable and poisonous gases or vapors
+    that, armed with the respirator, spirits of hartshorn,
+    sulphuretted hydrogen, hydrosulphuret of ammonia and
+    chlorine may be breathed through it with impunity,
+    though but slightly diluted with air. This result,
+    first obtained by Dr. Stenhouse, has been verified by
+    those who have repeated the trial, among others by Dr.
+    Wilson, who has tried the vapors named above on himself
+    and four of his pupils, who have breathed them with
+    impunity. The explanation of this remarkable property
+    of charcoal is two-fold. It has long been known to
+    possess the power of condensing into its pores gases
+    and vapors, so that if freshly prepared and exposed to
+    these, it absorbs and retains them. But it has scarcely
+    been suspected till recently, when Dr. Stenhouse
+    pointed out the fact, that if charcoal be allowed
+    to absorb simultaneously such gases as sulphuretted
+    hydrogen and air, the oxygen of this absorbed and
+    condensed air rapidly oxidizes and destroys the
+    accompanying gas. So marked is this action, that if
+    dead animals be imbedded in a layer of charcoal a few
+    inches deep, instead of being prevented from decaying
+    as it has hitherto been supposed that they would be by
+    the supposed antiseptic powers of the charcoal, they
+    are found by Dr. Stenhouse to decay much faster, whilst
+    at the same time, no offensive effluvia are evolved.
+    The deodorizing powers of charcoal are thus established
+    in a way they never have been before; but at the
+    same time it is shown that the addition of charcoal
+    to sewage refuse lessens its agricultural value
+    contemporaneously with the lessening of odor. From
+    these observations, which have been fully verified, it
+    appears that by strewing charcoal coarsely powdered to
+    the extent of a few inches, over church-yards, or by
+    placing it inside the coffins of the dead, the escape
+    of noisome and poisonous exhalations may be totally
+    prevented. The charcoal respirator embodies this
+    important discovery. It is certain that many of the
+    miasma, malaria and infectious matters which propagate
+    disease in the human subjects, enter the body by the
+    lungs, and impregnating the blood there, are carried
+    with it throughout the entire body, which they thus
+    poison. These miasma are either gases and vapors or
+    bodies which, like fine light dust, are readily carried
+    through the air; moreover, they are readily destroyed
+    by oxidizing agents, which convert them into harmless,
+    or at least non-poisonous substances, such as water,
+    carbonic acid and nitrogen. There is every reason,
+    therefore, for believing that charcoal will oxidize
+    and destroy such miasma as effectually as it does
+    sulphuretted hydrogen or hydrosulphuret of ammonia, and
+    thus prevent their reaching and poisoning the blood.
+    The intention accordingly is that those who are exposed
+    to noxious vapors, or compelled to breathe infected
+    atmospheres, shall wear the charcoal respirator,
+    with a view to arrest and destroy the volatile
+    poisons contained in these. Some of the non-obvious
+    applications of the respirator were then referred to:
+
+      “1. Certain of the large chemical manufacturers in
+      London are now supplying their workmen with the
+      charcoal respirators as a protection against the more
+      irritating vapors to which they are exposed.
+
+      “2. Many deaths have occurred among those employed
+      to explore the large drains and sewers of London
+      from exposure to sulphuretted hydrogen, etc. It may
+      be asserted with confidence that fatal results from
+      exposure to the drainage gases will cease as soon as
+      the respirator is brought into use.
+
+      “3. In districts such as the Campagna of Rome, where
+      malaria prevails and to travel during night or to
+      sleep in which is certainly followed by an attack of
+      dangerous and often fatal ague, the wearing of the
+      respirator even for a few hours may be expected to
+      render the marsh poison harmless.
+
+      “4. Those, who as clergymen, physicians or legal
+      advisers, have to attend the sick-beds of sufferers
+      from infectious disorders, may, on occasion, avail
+      themselves of the protection afforded by Dr.
+      Stenhouse’s instrument during their intercourse with
+      the sick.
+
+      “5. The longing for a short and decisive war has led
+      to the invention of ‘a suffocating bombshell,’ which
+      on bursting, spreads far and wide an irrespirable or
+      poisonous vapor; one of the liquids proposed for the
+      shell is the strongest ammonia, and against this it
+      is believed that the charcoal respirator may defend
+      our soldiers. As likely to serve this end, it is at
+      present before the Board of Ordnance.
+
+      “Dr. Wilson stated, in conclusion, that Dr. Stenhouse
+      had no interest but a scientific one in the success of
+      the respirators. He had declined to patent them, and
+      desired only to apply his remarkable discoveries to the
+      abatement of disease and death. Charcoal had long been
+      used in filters to render poisonous water wholesome; it
+      was now to be employed to filter poisonous air.”
